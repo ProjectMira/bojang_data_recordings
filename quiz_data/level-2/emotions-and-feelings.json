@@ -1,0 +1,244 @@
+{
+  "level": 2.1,
+  "title": "Emotions and Feelings",
+  "description": "Learn Tibetan names for common emotions and feelings",
+  "exercises": [
+    {
+      "type": "word_meaning",
+      "tibetanText": "སྐྱིད་པོ།",
+      "options": [
+        "Sad",
+        "Angry",
+        "Happy"
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "type": "word_meaning",
+      "tibetanText": "སེམས་ཁྲལ།",
+      "options": [
+        "Excited",
+        "Worry",
+        "Calm"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "type": "word_meaning",
+      "tibetanText": "ཁོང་ཁྲོ།",
+      "options": [
+        "Angry",
+        "Surprised",
+        "Proud"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "type": "word_meaning",
+      "tibetanText": "སྐྱོ་བ།",
+      "options": [
+        "Happy",
+        "Afraid",
+        "Sad"
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "type": "word_meaning",
+      "tibetanText": "ཞེད་བ།",
+      "options": [
+        "Excited",
+        "Afraid",
+        "Calm"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "type": "word_meaning",
+      "tibetanText": "ཕྲག་དོག",
+      "options": [
+        "Jealous",
+        "Proud",
+        "Shy"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "type": "word_meaning",
+      "tibetanText": "སྤོབས་པ།",
+      "options": [
+        "Proud",
+        "Jealous",
+        "Calm"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "type": "word_meaning",
+      "tibetanText": "ཁྱད་པར།",
+      "options": [
+        "Special",
+        "Excited",
+        "Lonely"
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "type": "word_meaning",
+      "tibetanText": "སེམས་ཤུགས་སྤེལ་བ།",
+      "options": [
+        "Encourage",
+        "Embarrassed",
+        "Tired"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "type": "word_meaning",
+      "tibetanText": "ཁྲེལ་བ།",
+      "options": [
+        "Excited",
+        "Calm",
+        "Embarrassed"
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "type": "word_meaning",
+      "tibetanText": "དགའ་བ།",
+      "options": [
+        "Dislike",
+        "Like",
+        "Fear"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "type": "word_meaning",
+      "tibetanText": "མི་དགའ།",
+      "options": [
+        "Dislike",
+        "Like",
+        "Angry"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "type": "word_meaning",
+      "tibetanText": "འདོད་པ།",
+      "options": [
+        "Fear",
+        "Desire",
+        "Sadness"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "type": "word_meaning",
+      "tibetanText": "དཀྲུག",
+      "options": [
+        "Calm",
+        "Disturb",
+        "Excited"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "type": "word_meaning",
+      "tibetanText": "ཞི་བ།",
+      "options": [
+        "Angry",
+        "Sad",
+        "Calm"
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "type": "word_meaning",
+      "tibetanText": "རེ་བ།",
+      "options": [
+        "Despair",
+        "Confusion",
+        "Hope"
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "type": "word_meaning",
+      "tibetanText": "ངོ་ཚ་བ།",
+      "options": [
+        "Bold",
+        "Shy",
+        "Angry"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "type": "word_meaning",
+      "tibetanText": "བློ་ཕམ།",
+      "options": [
+        "Excited",
+        "Proud",
+        "Disappointed"
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "type": "word_meaning",
+      "tibetanText": "སེམས་པ།",
+      "options": [
+        "Forget",
+        "Sleep",
+        "Think"
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "type": "word_meaning",
+      "tibetanText": "ཡིད་ཆེས།",
+      "options": [
+        "Trust",
+        "Doubt",
+        "Fear"
+      ],
+      "correctAnswerIndex": 0
+    }
+  ],
+  "metadata": {
+    "totalExercises": 20,
+    "exerciseTypes": [
+      "word_meaning"
+    ],
+    "contentMix": {
+      "meaningfulWords": 20
+    },
+    "estimatedTime": "10-15 minutes",
+    "difficulty": "beginner-intermediate",
+    "skillsLearned": [
+      "Emotion vocabulary in Tibetan",
+      "Feeling vocabulary in Tibetan",
+      "Describing emotional states",
+      "Expressing likes and dislikes",
+      "Talking about moods"
+    ],
+    "prereq": "Level 1.10 completion",
+    "vocabularyIntroduced": [
+      "དགའ་པོ།(happy)",
+      "སེམས་ཁུར།(worried)",
+      "ཁོང་ཁྲོ།(angry)",
+      "སྐྱོ་བ།(sad)",
+      "འཇིགས་པ།(afraid)",
+      "བསུན་པ།(jealous)",
+      "རྗེས་དགའ།(proud)",
+      "ཁྱད་པར།(lonely)",
+      "འདུག་སྐུལ།(encouraged)",
+      "ཁྲེལ་བ།(embarrassed)",
+      "དགའ་བ།(like)",
+      "མི་དགའ།(dislike)",
+      "འདོད་པ།(desire)",
+      "དགའ་སྟོན།(joyful)",
+      "འཁྲུགས་པ།(disturbed)",
+      "ཞི་བ།(calm)"
+    ]
+  }
+}

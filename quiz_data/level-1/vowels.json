@@ -1,0 +1,247 @@
+{
+  "level": 1.2,
+  "title": "Most Common Tibetan Vowel Combinations",
+  "description": "Learn the 20 most frequently used Tibetan vowel combinations and syllables",
+  "exercises": [
+    {
+      "type": "syllable_recognition",
+      "tibetanText": "ཀི།",
+      "options": [
+        "ki",
+        "ka",
+        "ku"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "type": "syllable_recognition",
+      "tibetanText": "ཀུ།",
+      "options": [
+        "ka",
+        "ku",
+        "ke"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "type": "syllable_recognition",
+      "tibetanText": "ཀེ།",
+      "options": [
+        "ko",
+        "ka",
+        "ke"
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "type": "syllable_recognition",
+      "tibetanText": "ཀོ།",
+      "options": [
+        "ko",
+        "ku",
+        "ka"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "type": "syllable_recognition",
+      "tibetanText": "བུ།",
+      "options": [
+        "ba",
+        "bu",
+        "bo"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "type": "syllable_recognition",
+      "tibetanText": "མི།",
+      "options": [
+        "mu",
+        "ma",
+        "mi"
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "type": "syllable_recognition",
+      "tibetanText": "རི།",
+      "options": [
+        "ri",
+        "ra",
+        "re"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "type": "syllable_recognition",
+      "tibetanText": "པོ།",
+      "options": [
+        "pu",
+        "po",
+        "pa"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "type": "syllable_recognition",
+      "tibetanText": "ལེ།",
+      "options": [
+        "la",
+        "lo",
+        "le"
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "type": "syllable_recognition",
+      "tibetanText": "སུ།",
+      "options": [
+        "su",
+        "sa",
+        "se"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "type": "syllable_recognition",
+      "tibetanText": "དེ།",
+      "options": [
+        "da",
+        "de",
+        "di"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "type": "syllable_recognition",
+      "tibetanText": "ཆུ།",
+      "options": [
+        "cha",
+        "che",
+        "chu"
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "type": "syllable_recognition",
+      "tibetanText": "ཡེ།",
+      "options": [
+        "ye",
+        "ya",
+        "yu"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "type": "syllable_recognition",
+      "tibetanText": "ནོ།",
+      "options": [
+        "nu",
+        "no",
+        "na"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "type": "syllable_recognition",
+      "tibetanText": "གུ།",
+      "options": [
+        "ga",
+        "go",
+        "gu"
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "type": "syllable_recognition",
+      "tibetanText": "ཏི།",
+      "options": [
+        "ti",
+        "ta",
+        "tu"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "type": "syllable_recognition",
+      "tibetanText": "རེ།",
+      "options": [
+        "ra",
+        "re",
+        "ri"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "type": "syllable_recognition",
+      "tibetanText": "ལུ།",
+      "options": [
+        "la",
+        "le",
+        "lu"
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "type": "syllable_recognition",
+      "tibetanText": "ཟོ།",
+      "options": [
+        "zo",
+        "za",
+        "zu"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "type": "syllable_recognition",
+      "tibetanText": "ངེ།",
+      "options": [
+        "nga",
+        "nge",
+        "ngo"
+      ],
+      "correctAnswerIndex": 1
+    }
+  ],
+  "metadata": {
+    "totalExercises": 20,
+    "vowelMarks": [
+      "ི",
+      "ུ",
+      "ེ",
+      "ོ"
+    ],
+    "estimatedTime": "10-15 minutes",
+    "difficulty": "beginner",
+    "skillsLearned": [
+      "Most common Tibetan vowel combinations",
+      "Essential syllable recognition",
+      "Consonant-vowel patterns",
+      "Foundation for reading Tibetan words"
+    ],
+    "prereq": "Level 1.1 - Alphabet Recognition",
+    "vocabularyIntroduced": [
+      "ཀི།(ki)",
+      "ཀུ།(ku)",
+      "ཀེ།(ke)",
+      "ཀོ།(ko)",
+      "བུ།(bu)",
+      "མི།(mi)",
+      "རི།(ri)",
+      "པོ།(po)",
+      "ལེ།(le)",
+      "སུ།(su)",
+      "དེ།(de)",
+      "ཆུ།(chu)",
+      "ཡེ།(ye)",
+      "ནོ།(no)",
+      "གུ།(gu)",
+      "ཏི།(ti)",
+      "རེ།(re)",
+      "ལུ།(lu)",
+      "ཟོ།(zo)",
+      "ངེ།(nge)"
+    ]
+  }
+}

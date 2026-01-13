@@ -1,0 +1,248 @@
+{
+  "level": 1.5,
+  "title": "Tibetan Numbers",
+  "description": "Learn essential Tibetan numbers from 0 to thousands with most commonly used numbers",
+  "exercises": [
+    {
+      "type": "word_meaning",
+      "tibetanText": "ཀླད་ཀོར།",
+      "options": [
+        "chik (One)",
+        "lekor (Zero)",
+        "chu (Ten)"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "type": "word_meaning",
+      "tibetanText": "གཉིས།",
+      "options": [
+        "chik (One)",
+        "sum (Three)",
+        "nyi (Two)"
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "type": "word_meaning",
+      "tibetanText": "བཞི།",
+      "options": [
+        "sum (Three)",
+        "nga (Five)",
+        "zhi (Four)"
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "type": "word_meaning",
+      "tibetanText": "གསུམ།",
+      "options": [
+        "zhi (Four)",
+        "sum (Three)",
+        "nga (Five)"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "type": "word_meaning",
+      "tibetanText": "གཅིག",
+      "options": [
+        "chik (One)",
+        "nyi (Two)",
+        "sum (Three)"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "type": "word_meaning",
+      "tibetanText": "ལྔ།",
+      "options": [
+        "nga (Five)",
+        "zhi (Four)",
+        "druk (Six)"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "type": "word_meaning",
+      "tibetanText": "བདུན།",
+      "options": [
+        "druk (Six)",
+        "dun (Seven)",
+        "gye (Eight)"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "type": "word_meaning",
+      "tibetanText": "བཅོ་ལྔ།",
+      "options": [
+        "chu zhi (Fourteen)",
+        "chu druk (Sixteen)",
+        "cho nga (Fifteen)"
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "type": "word_meaning",
+      "tibetanText": "བརྒྱད།",
+      "options": [
+        "gu (Nine)",
+        "dun (Seven)",
+        "gye (Eight)"
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "type": "word_meaning",
+      "tibetanText": "དགུ།",
+      "options": [
+        "gye (Eight)",
+        "gu (Nine)",
+        "chu (Ten)"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "type": "word_meaning",
+      "tibetanText": "བཅུ།",
+      "options": [
+        "gu (Nine)",
+        "chu chik (Eleven)",
+        "chu (Ten)"
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "type": "word_meaning",
+      "tibetanText": "ཉི་ཤུ།",
+      "options": [
+        "nyi shu (Twenty)",
+        "cho nga (Fifteen)",
+        "nyer nga (Twenty-five)"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "type": "word_meaning",
+      "tibetanText": "ལྔ་བཅུ།",
+      "options": [
+        "nga chu (Fifty)",
+        "zhi chu (Forty)",
+        "druk chu (Sixty)"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "type": "word_meaning",
+      "tibetanText": "སུམ་ཅུ།",
+      "options": [
+        "nyi shu (Twenty)",
+        "sum chu (Thirty)",
+        "zhi chu (Forty)"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "type": "word_meaning",
+      "tibetanText": "སྟོང་།",
+      "options": [
+        "tong (Thousand)",
+        "gya (Hundred)",
+        "tri (Ten thousand)"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "type": "word_meaning",
+      "tibetanText": "བརྒྱ།",
+      "options": [
+        "gya (Hundred)",
+        "gu chu (Ninety)",
+        "tong (Thousand)"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "type": "word_meaning",
+      "tibetanText": "དྲུག",
+      "options": [
+        "dun (Seven)",
+        "nga (Five)",
+        "druk (Six)"
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "type": "word_meaning",
+      "tibetanText": "མང་པོ།",
+      "options": [
+        "nyung ngu (Few)",
+        "mang po (Many)",
+        "ga re (Some)"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "type": "word_meaning",
+      "tibetanText": "ཕྱེད་ཀ",
+      "options": [
+        "zhi cha (Quarter)",
+        "che ka (Half)",
+        "sum cha (Three-quarters)"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "type": "word_meaning",
+      "tibetanText": "དང་པོ།",
+      "options": [
+        "dang po (First)",
+        "gnyis pa (Second)",
+        "tha ma (Last)"
+      ],
+      "correctAnswerIndex": 0
+    }
+  ],
+  "metadata": {
+    "totalExercises": 20,
+    "exerciseTypes": [
+      "word_meaning"
+    ],
+    "contentMix": {
+      "meaningfulWords": 20
+    },
+    "estimatedTime": "10-12 minutes",
+    "difficulty": "beginner-intermediate",
+    "skillsLearned": [
+      "Basic Tibetan numbers (0-10)",
+      "Essential larger numbers (15, 20, 30, 50)",
+      "Key number units (hundred, thousand)",
+      "Quantity expressions (many, half)",
+      "Basic ordinal number (first)"
+    ],
+    "prereq": "Level 1.3 completion",
+    "vocabularyIntroduced": [
+      "ཀླད།(zero)",
+      "གཅིག(one)",
+      "གཉིས།(two)",
+      "གསུམ།(three)",
+      "བཞི།(four)",
+      "ལྔ།(five)",
+      "དྲུག(six)",
+      "བདུན།(seven)",
+      "བརྒྱད།(eight)",
+      "དགུ།(nine)",
+      "བཅུ།(ten)",
+      "བཅོ་ལྔ།(fifteen)",
+      "ཉི་ཤུ།(twenty)",
+      "སུམ་ཅུ།(thirty)",
+      "ལྔ་བཅུ།(fifty)",
+      "བརྒྱ།(hundred)",
+      "སྟོང་།(thousand)",
+      "མང་པོ།(many)",
+      "ཕྱེད་ཀ(half)",
+      "དང་པོ།(first)"
+    ]
+  }
+}

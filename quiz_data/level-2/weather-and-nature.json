@@ -1,0 +1,248 @@
+{
+  "level": 2.5,
+  "title": "Weather and Nature",
+  "description": "Learn Tibetan names for common weather and nature terms",
+  "exercises": [
+    {
+      "type": "word_meaning",
+      "tibetanText": "ཆར་པ།",
+      "options": [
+        "Snow",
+        "Rain",
+        "Sun"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "type": "word_meaning",
+      "tibetanText": "ཉི་མ།",
+      "options": [
+        "Moon",
+        "Sun",
+        "Star"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "type": "word_meaning",
+      "tibetanText": "གངས།",
+      "options": [
+        "Rain",
+        "Snow",
+        "Cloud"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "type": "word_meaning",
+      "tibetanText": "ཤིང་སྡོང་།",
+      "options": [
+        "Mountain",
+        "Tree",
+        "River"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "type": "word_meaning",
+      "tibetanText": "རི།",
+      "options": [
+        "Mountain",
+        "Valley",
+        "Lake"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "type": "word_meaning",
+      "tibetanText": "གཙང་ཆུ།",
+      "options": [
+        "Rain",
+        "River",
+        "Snow"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "type": "word_meaning",
+      "tibetanText": "སྤྲིན་པ།",
+      "options": [
+        "White",
+        "Cloud",
+        "Wind"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "type": "word_meaning",
+      "tibetanText": "རླུང་།",
+      "options": [
+        "Rain",
+        "Sun",
+        "Wind"
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "type": "word_meaning",
+      "tibetanText": "མཚོ།",
+      "options": [
+        "River",
+        "Lake",
+        "Mountain"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "type": "word_meaning",
+      "tibetanText": "འཛམ་གླིང་།",
+      "options": [
+        "Sky",
+        "Fire",
+        "Earth"
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "type": "word_meaning",
+      "tibetanText": "ནམ་མཁའ།",
+      "options": [
+        "Earth",
+        "Sky",
+        "Cloud"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "type": "word_meaning",
+      "tibetanText": "འཁྱགས་པ།",
+      "options": [
+        "Ice",
+        "Snow",
+        "Rain"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "type": "word_meaning",
+      "tibetanText": "མེ།",
+      "options": [
+        "Sun",
+        "Wind",
+        "Fire"
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "type": "word_meaning",
+      "tibetanText": "མེ་ཏོག",
+      "options": [
+        "Grass",
+        "Stone",
+        "Flower"
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "type": "word_meaning",
+      "tibetanText": "དཀར་མོ།",
+      "options": [
+        "Dew",
+        "Fog",
+        "Thunder"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "type": "word_meaning",
+      "tibetanText": "རྒྱ་མཚོ།",
+      "options": [
+        "Lake",
+        "Ocean",
+        "River"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "type": "word_meaning",
+      "tibetanText": "ཟླ་བ།",
+      "options": [
+        "Sun",
+        "Star",
+        "Moon"
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "type": "word_meaning",
+      "tibetanText": "སྐར་མ།",
+      "options": [
+        "Moon",
+        "Star",
+        "Cloud"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "type": "word_meaning",
+      "tibetanText": "རྩྭ།",
+      "options": [
+        "Tree",
+        "Grass",
+        "Flower"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "type": "word_meaning",
+      "tibetanText": "འབྲུག",
+      "options": [
+        "Lightning",
+        "Thunder",
+        "Storm"
+      ],
+      "correctAnswerIndex": 1
+    }
+  ],
+  "metadata": {
+    "totalExercises": 20,
+    "exerciseTypes": [
+      "word_meaning"
+    ],
+    "contentMix": {
+      "meaningfulWords": 20
+    },
+    "estimatedTime": "10-15 minutes",
+    "difficulty": "beginner-intermediate",
+    "skillsLearned": [
+      "Weather vocabulary in Tibetan",
+      "Nature vocabulary in Tibetan",
+      "Describing the environment",
+      "Talking about weather and natural features",
+      "Expanding daily life and nature vocabulary"
+    ],
+    "prereq": "Level 2.4 completion",
+    "vocabularyIntroduced": [
+      "ཆར་པ།(rain)",
+      "ཉི་མ།(sun)",
+      "གངས།(snow)",
+      "ཤིང་།(tree)",
+      "རི།(mountain)",
+      "ཆུ།(river)",
+      "དཀར་པོ།(cloud)",
+      "རླུང་།(wind)",
+      "མཚོ།(lake)",
+      "ས།(earth)",
+      "མཁས་པ།(sky)",
+      "འཁྱགས།(ice)",
+      "མེ།(fire)",
+      "དཔལ།(flower)",
+      "རི་བོ།(mountain)",
+      "དཀར་མོ།(fog)",
+      "གཡུ།(jade)",
+      "རྒྱ་ཆེན་པོ།(ocean)",
+      "རྒྱ་མཚོ།(sea)",
+      "གཡུ་མཚོ།(turquoise lake)"
+    ]
+  }
+}

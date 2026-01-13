@@ -1,0 +1,247 @@
+{
+  "level": 1.8,
+  "title": "Fruits and Vegetables",
+  "description": "Learn Tibetan names for common fruits and vegetables",
+  "exercises": [
+    {
+      "type": "word_meaning",
+      "tibetanText": "ཤིང་ཏོག",
+      "options": [
+        "Vegetable",
+        "Fruit",
+        "Flower"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "type": "word_meaning",
+      "tibetanText": "ཀུ་ཤུ།",
+      "options": [
+        "Orange",
+        "Apple",
+        "Pear"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "type": "word_meaning",
+      "tibetanText": "ལི།",
+      "options": [
+        "Apple",
+        "Pear",
+        "Peach"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "type": "word_meaning",
+      "tibetanText": "ཁམ་བུ།",
+      "options": [
+        "Peach",
+        "Plum",
+        "Apricot"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "type": "word_meaning",
+      "tibetanText": "ཚ་ལུ་མ།",
+      "options": [
+        "Lemon",
+        "Orange",
+        "Lime"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "type": "word_meaning",
+      "tibetanText": "ལིམ་བུ།",
+      "options": [
+        "Orange",
+        "Lemon",
+        "Grapefruit"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "type": "word_meaning",
+      "tibetanText": "ངང་ལག",
+      "options": [
+        "Mango",
+        "Banana",
+        "Orange"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "type": "word_meaning",
+      "tibetanText": "རྒུན་འབྲུམ།",
+      "options": [
+        "Raisins",
+        "Grapes",
+        "Berries"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "type": "word_meaning",
+      "tibetanText": "ཙོང་།",
+      "options": [
+        "Onion",
+        "Pepper",
+        "Tomato"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "type": "word_meaning",
+      "tibetanText": "ཚལ།",
+      "options": [
+        "Fruit",
+        "Vegetable",
+        "Grain"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "type": "word_meaning",
+      "tibetanText": "ཞོག་ཁོག",
+      "options": [
+        "Potato",
+        "Onion",
+        "Garlic"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "type": "word_meaning",
+      "tibetanText": "ཨ་ལུ།",
+      "options": [
+        "Radish",
+        "Carrot",
+        "Beet"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "type": "word_meaning",
+      "tibetanText": "ལ་ཕུག",
+      "options": [
+        "Carrot",
+        "Radish",
+        "Turnip"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "type": "word_meaning",
+      "tibetanText": "པེ་ཏྲ།",
+      "options": [
+        "Cabbage",
+        "Lettuce",
+        "Spinach"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "type": "word_meaning",
+      "tibetanText": "སྒོག་པ།",
+      "options": [
+        "Onion",
+        "Garlic",
+        "Ginger"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "type": "word_meaning",
+      "tibetanText": "ཀྲོ་མ་ཀྲུ།",
+      "options": [
+        "Tomato",
+        "Pepper",
+        "Eggplant"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "type": "word_meaning",
+      "tibetanText": "སི་པན།",
+      "options": [
+        "Tomato",
+        "Chili",
+        "Bell pepper"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "type": "word_meaning",
+      "tibetanText": "མངར་མོ།",
+      "options": [
+        "Sweet",
+        "Sour",
+        "Bitter"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "type": "word_meaning",
+      "tibetanText": "སྐྱུར་མོ།",
+      "options": [
+        "Sweet",
+        "Sour",
+        "Salty"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "type": "word_meaning",
+      "tibetanText": "ཚ་མོ།",
+      "options": [
+        "Cold",
+        "Hot/Spicy",
+        "Warm"
+      ],
+      "correctAnswerIndex": 1
+    }
+  ],
+  "metadata": {
+    "totalExercises": 20,
+    "exerciseTypes": [
+      "word_meaning"
+    ],
+    "contentMix": {
+      "meaningfulWords": 20
+    },
+    "estimatedTime": "8-10 minutes",
+    "difficulty": "beginner-intermediate",
+    "skillsLearned": [
+      "Essential fruit vocabulary in Tibetan",
+      "Core vegetable vocabulary in Tibetan",
+      "Basic taste descriptors",
+      "Foundation food terminology"
+    ],
+    "prereq": "Level 1.3 completion",
+    "vocabularyIntroduced": [
+      "ཤིང་ཏོག(fruit)",
+      "ཚལ།(vegetable)",
+      "རྐུ་ཤིང་།(apple)",
+      "ལི་ཤི།(pear)",
+      "ཁམ་བུ།(peach)",
+      "ཆུ་ཚོད།(watermelon)",
+      "རྒུན་འབྲུམ།(grapes)",
+      "བ་ན་ན།(banana)",
+      "སེར་ཕྲུག(orange)",
+      "ཅང་ཤེལ།(lemon)",
+      "གོ་ལ།(cabbage)",
+      "ལ་ཕུག(radish)",
+      "ཨུ་སུ།(carrot)",
+      "རེ་སྐུད།(potato)",
+      "སྒོག་པ།(garlic)",
+      "རེ་མ།(tomato)",
+      "ཏ་ལི།(chili)",
+      "མངར་བ།(sweet)",
+      "སྐྱུར་བ།(sour)",
+      "ཚ་བ།(hot/spicy)"
+    ]
+  }
+}
